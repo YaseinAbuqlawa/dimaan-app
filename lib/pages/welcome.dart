@@ -4,10 +4,8 @@ import 'package:dimaan/models/variables.dart';
 import 'package:dimaan/models/widgets.dart';
 import 'package:dimaan/pages/Home.dart';
 import 'package:dimaan/pages/auth.dart';
-import 'package:dimaan/test.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 
 class Welcome extends StatefulWidget {

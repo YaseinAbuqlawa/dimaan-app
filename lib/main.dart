@@ -1,6 +1,5 @@
 import 'package:dimaan/models/colors.dart';
 import 'package:dimaan/pages/welcome.dart';
-import 'package:dimaan/test.dart';
 import 'package:flutter/material.dart';
 
 void main() {

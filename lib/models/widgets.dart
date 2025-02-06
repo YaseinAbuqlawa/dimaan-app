@@ -5,7 +5,6 @@ import 'package:dimaan/models/variables.dart';
 import 'package:dimaan/pages/cart.dart';
 import 'package:dimaan/pages/drawerpages.dart';
 import 'package:dimaan/pages/location/yourlocations.dart';
-import 'package:dimaan/test.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
